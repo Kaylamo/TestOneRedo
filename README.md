@@ -1,4 +1,6 @@
 # TestOneRedo
+# Comments file cover Question 8-9
+# myName file covers Question 10
 
 1. ![Question 1](https://user-images.githubusercontent.com/66099207/207942234-ffffcf5b-6379-4e1b-9ea8-b2b82e4a4697.png)
 
