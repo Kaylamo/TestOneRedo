@@ -7,7 +7,12 @@
 3. ![Question 3](https://user-images.githubusercontent.com/66099207/207941866-094883c2-49a7-4dd5-9abf-fa559a4d0808.png)
 
 4. ![Question 4](https://user-images.githubusercontent.com/66099207/207942680-aed879b2-0dca-46b6-a89d-b55aed026bd5.png)
-
+     
+     
+     The CU : directs all the input and output and controls data within the system. uses code for instructions
+      The ALU :  arithmetic and bitwise operations on integer binary numbers
+      Memory : stores data and instructions
+      
 5. N = 5
       factorial (5)
       5 x factorial(4) =  
@@ -36,6 +41,8 @@
 10. Right name:
 11. ![image](https://user-images.githubusercontent.com/66099207/207961576-a80e4d50-671d-4711-ad18-66121c656157.png)
     ![image](https://user-images.githubusercontent.com/66099207/207961632-44b3077b-76db-4cb1-bc3d-7d222ad7f9b4.png)
+
+
 Wrong Name:
 ![image](https://user-images.githubusercontent.com/66099207/207961760-4639e6d1-51e7-492a-9c00-c74754640426.png)
 ![image](https://user-images.githubusercontent.com/66099207/207961889-00b84c3b-d45a-4295-ade7-d6e042f4c347.png)
